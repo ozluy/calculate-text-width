@@ -1,0 +1,1 @@
+const _calcTW=(a,b="normal 500 14px sans-serif")=>{const c=_calcTW.canvas||(_calcTW.canvas=document.createElement("canvas")),d=c.getContext("2d");d.font=b;const e=d.measureText(a);return e.width};export default _calcTW;

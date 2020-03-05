@@ -1,0 +1,29 @@
+{
+  "name": "calculate-text-width",
+  "version": "0.0.3",
+  "description": "Function that calculates width of typed text",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-file index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozluy/calculate-text-width.git"
+  },
+  "keywords": [
+    "auto-resize",
+    "text-width",
+    "input-autowidth"
+  ],
+  "author": "Yusuf Özlü",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozluy/calculate-text-width/issues"
+  },
+  "homepage": "https://github.com/ozluy/calculate-text-width#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6",
+    "babel-preset-minify": "^0.5.1"
+  }
+}
