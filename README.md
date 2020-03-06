@@ -1,5 +1,6 @@
 # Calculate Text Width
 Function that calculates width of typed text
+
 [![npm version](https://badge.fury.io/js/calculate-text-width.svg)](https://badge.fury.io/js/calculate-text-width)
 ![npm download](https://img.shields.io/npm/dt/calculate-text-width.svg)
 
